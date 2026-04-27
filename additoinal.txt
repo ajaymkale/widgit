@@ -1,2 +1,3 @@
 additional file added
 config.txt was already there
+adding some additional configurations
