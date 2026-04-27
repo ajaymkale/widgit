@@ -1,0 +1,4 @@
+additional file added
+config.txt was already there
+adding some additional configurations
+found a couple of more config values that are needed
